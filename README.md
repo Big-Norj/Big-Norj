@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orji Kingsley</h1>
-<h3 align="center">Junior Fullstack Developer , I work remotely and love to experiment with personal projects to bring ideas to life.</h3>
+<h3 align="center">Frontend Developer , I work remotely and love to experiment with personal projects to bring ideas to life.</h3>
 <img align="right" alt="coding" width="400"   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfB9CYVlo4buD1ZWtX8JWwmqBBkcbm2pPnpw&usqp=CAU">
 
 
