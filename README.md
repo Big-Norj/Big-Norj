@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **My self and Skill development.**
 
-- 🌱 I’m currently learning **Web 3.0**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about anything **I am willing and happy to help**
 
