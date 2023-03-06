@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=big-norj&label=Profile%20views&color=0e75b6&style=flat" alt="big-norj" /> </p>
 
 # 💫 About Me:
--  💻 I'm currently into Blockchain and Smart Contracts with the use of Metamask, Ethers, Web3, and Solidity.<br><br>-  💻 currently working on tailwind as a side Booster<br><br>-  💻 me about coding with Solidity and node<br><br>-  🤝 I'm looking to collaborate on any project using NodeJS, Javascript, React, and Blockchain.<br><br>- 📩 How to reach me kingsleyorji191@yahoo.com
+-  💻 I'm currently into Blockchain and Smart Contracts with the use of Metamask, Ethers, Web3, and Solidity.<br><br>-  💻 currently working on tailwind as a side Booster<br><br>-  💻 Ask me about coding with Solidity and node<br><br>-  🤝 I'm looking to collaborate on any project using NodeJS, Javascript, React, and Blockchain.<br><br>- 📩 How to reach me kingsleyorji191@yahoo.com
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Norjiboy#1663) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@bignorj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/norjiboy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@bignorj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Big_Norj) 
